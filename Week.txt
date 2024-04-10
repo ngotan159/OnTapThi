@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Đây là file của Week
 Thuộc branch week mà thôi!
+=======
+Đây là file của Main và Week
+>>>>>>> main
